@@ -30,6 +30,10 @@ public class InventoryView : MonoBehaviour
         }
         InventoryPanel.SetActive(ShoweInventory);
     }
+    public void AddItem(int id, int count)
+    {
+        _inventoryController.AddItem(id, count);
+    }
     public void Update()
     {
         _inventoryController.timerShowMessage();

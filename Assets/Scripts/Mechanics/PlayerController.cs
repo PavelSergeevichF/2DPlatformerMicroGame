@@ -40,6 +40,8 @@ namespace Platformer.Mechanics
         SpriteRenderer spriteRenderer;
         internal Animator animator;
         readonly PlatformerModel model = Simulation.GetModel<PlatformerModel>();
+        [SerializeField]
+        private InventoryView _inventoryView;
 
         public Bounds Bounds => collider2d.bounds;
 
@@ -54,9 +56,11 @@ namespace Platformer.Mechanics
         }
         private void OnTriggerEnter2D(Collider2D collision)
         {
-            //создать событие
-            //throw new System.Exception();
-            Debug.Log("+++");
+            if(collision.GetComponent<ItemView>())
+            {
+                _inventoryView.AddItem(collision.GetComponent<ItemView>().id, collision.GetComponent<ItemView>().count);
+                Debug.Log($"Id:{collision.GetComponent<ItemView>().id}, Count:{collision.GetComponent<ItemView>().count}");
+            }
         }
         protected override void Update()
         {
