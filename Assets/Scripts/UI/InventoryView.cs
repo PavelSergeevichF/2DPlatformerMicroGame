@@ -12,10 +12,11 @@ public class InventoryView : MonoBehaviour
     private ItemCollection _itemCollection;
     private InventaryControllerMy _inventoryController;
     private InventaryModelUI _inventoryModelUI;
+    public MessageTextUi messageTextUi;
 
     public void Awake()
     {
-        _inventoryController = new InventaryControllerMy(_inventoryModelUI, this, _itemCollection);
+        _inventoryController = new InventaryControllerMy(_inventoryModelUI, this, _itemCollection, messageTextUi);
         _inventoryModelUI = new InventaryModelUI();
     }
     public void OnClicInventory()
@@ -37,5 +38,6 @@ public class InventoryView : MonoBehaviour
     public void Update()
     {
         _inventoryController.timerShowMessage();
+        _inventoryController.Update();
     }
 }

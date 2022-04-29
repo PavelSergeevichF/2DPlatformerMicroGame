@@ -3,12 +3,15 @@ using UnityEngine.UI;
 
 public class MessageTextUi : MonoBehaviour
 {
-    public static Text textInfo;
-    public static void ClearMessage()
+    public Text textInfo;
+    private void Awake()
+    {
+    }
+    public void ClearMessage()
     {
         textInfo.text = "";
     }
-    public static void SetMessage(string str)
+    public void SetMessage(string str)
     {
         textInfo.text = str;
     }

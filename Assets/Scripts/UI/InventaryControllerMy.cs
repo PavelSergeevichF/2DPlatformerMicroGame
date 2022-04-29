@@ -7,12 +7,14 @@
     private const int dely = 60;
     private const int _fullStack = 64;
     private int timerShoweMessage = dely;
+    private MessageTextUi _messageTextUi;
 
-    public InventaryControllerMy(InventaryModelUI inventoryModelUI, InventoryView inventoryView, ItemCollection itemCollection)
+    public InventaryControllerMy(InventaryModelUI inventoryModelUI, InventoryView inventoryView, ItemCollection itemCollection, MessageTextUi messageTextUi)
     {
         _inventoryModelUI = inventoryModelUI;
         _inventoryView = inventoryView;
         _itemCollection = itemCollection;
+        _messageTextUi = messageTextUi;
     }
     public void StartInventoryController()
     {
@@ -25,40 +27,51 @@
     }
     public void AddItem(int id, int count)
     {
-        foreach (var contein in _inventoryView.Contains)
+        for(int i=0;i< _inventoryView.Contains.Count;i++)
         {
-            if (id == contein.GetComponent<ContainsView>().containInventoryItem.id)
+            var contain = _inventoryView.Contains[i].GetComponent<ContainsView>();
+            if (!contain.full)
             {
-                if ((contein.GetComponent<ContainsView>().count + count) < _fullStack)
+                if (id == contain.containInventoryItem.id)
                 {
-                    contein.GetComponent<ContainsView>().count += count;
-                }
-                else
-                {
-                    if (count < _fullStack)
+                    if ((contain.count + count) < _fullStack)
                     {
-                        count -= _fullStack - contein.GetComponent<ContainsView>().count;
-                        contein.GetComponent<ContainsView>().full = true;
+                        contain.count += count;
+                        count = 0;
+                        contain.SetTextCount();
+                        return;
                     }
-
+                    else
+                    {
+                        if (count < _fullStack)
+                        {
+                            count -= _fullStack - contain.count;
+                            contain.full = true;
+                        }
+                    }
+                }
+                if (contain.free)
+                {
+                    contain.containInventoryItem.id = id;
+                    contain.free = false;
+                    if(id>0)
+                    contain.spriteItem = _itemCollection.itemSprite[id-1].GetComponent<UnityEngine.SpriteRenderer>().sprite;
+                    contain.GetComponent<UnityEngine.UI.Image>().sprite = contain.spriteItem;
+                    contain.count += count;
+                    count = 0;
+                    contain.SetTextCount();
+                    return;
                 }
             }
-            else
-            {
-                if (contein.GetComponent<ContainsView>().free)
+            else 
+            { 
+                if(i>= _inventoryView.Contains.Count-1)
                 {
-                    contein.GetComponent<ContainsView>().containInventoryItem.id =id;
-                    contein.GetComponent<ContainsView>().free = false;
-                    contein.GetComponent<ContainsView>().containInventoryItem.itemObject = _itemCollection.itemSprite[id+1];
-                    contein.GetComponent<ContainsView>().count += count;
-                }
-                else 
-                {
-                    MessageTextUi.SetMessage("Инвентарь полон");
+                    _messageTextUi.SetMessage("Инвентарь полон");
                     showeMessage = true;
                 }
             }
-            contein.GetComponent<ContainsView>().SetTextCount();
+            contain.SetTextCount();
         }
     }
     public void timerShowMessage()
@@ -71,7 +84,20 @@
         {
             showeMessage = false;
             timerShoweMessage = dely;
-            MessageTextUi.ClearMessage();
+            _messageTextUi.ClearMessage();
+        }
+    }
+    public void GetItem()
+    { }
+    public void Update()
+    {
+        if (UnityEngine.Input.GetButtonDown("Fire1"))
+        {
+            UnityEngine.Vector3 mousePos = UnityEngine.Input.mousePosition;
+            {
+                UnityEngine.Debug.Log(mousePos.x);
+                UnityEngine.Debug.Log(mousePos.y);
+            }
         }
     }
 }

@@ -5,14 +5,19 @@ public  class ContainsView : MonoBehaviour
 {
     public Text CountText;
     public ContainInventoryItem containInventoryItem;
+    public Sprite spriteItem;
     public int count=0;
     public bool free=true;
     public bool full = false;
     public void SetTextCount()
     {
-        if(count>0)
+        if (count > 0)
+        {
             CountText.text = count.ToString();
+        }    
         else
+        {
             CountText.text = "";
+        }
     }
 }

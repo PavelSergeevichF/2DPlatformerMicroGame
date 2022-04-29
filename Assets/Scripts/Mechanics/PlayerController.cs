@@ -59,7 +59,7 @@ namespace Platformer.Mechanics
             if(collision.GetComponent<ItemView>())
             {
                 _inventoryView.AddItem(collision.GetComponent<ItemView>().id, collision.GetComponent<ItemView>().count);
-                Debug.Log($"Id:{collision.GetComponent<ItemView>().id}, Count:{collision.GetComponent<ItemView>().count}");
+                Destroy(collision.gameObject);
             }
         }
         protected override void Update()
