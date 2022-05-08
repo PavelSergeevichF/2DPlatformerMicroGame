@@ -9,6 +9,7 @@ public class SimpleSpeedToText : MonoBehaviour
     //[SerializeField] private FlootVariable speed;
     //public SimpleCarMovement SimpleCarMovement => _simpleCarMovement;
     [SerializeField] private TextMeshProUGUI _textField;
+    [SerializeField] private FloatEventChannel GameAction;
     void Start()
     {
         _textField = GetComponent<TextMeshProUGUI>();
@@ -19,7 +20,6 @@ public class SimpleSpeedToText : MonoBehaviour
     {
         _textField.text = speed?.Variabl.ToString();
     }*/
-    [SerializeField] private FloatEventChannel GameAction;
     private void OnEnable()
     {
         if(GameAction != null)

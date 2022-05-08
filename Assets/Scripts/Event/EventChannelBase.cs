@@ -1,9 +1,16 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
+using UnityEngine.Events;
 
 public class EventChannelBase : DescriptionBase
 {
+}
+
+public class DescriptionBase : ScriptableObject//MonoBehaviour
+{
+    public delegate void UnityAction();
+    public event UnityAction action;
 }
 
 public abstract class EventChannel : EventChannelBase

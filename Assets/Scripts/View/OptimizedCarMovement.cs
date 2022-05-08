@@ -10,11 +10,11 @@ public class OptimizedCarMovement : MonoBehaviour
     [SerializeField]
     private float _maxSpeed = 30;
     [SerializeField]
-    private SimpleInputHandler2 _simpleInputHandler;
+    private SimpleInputHandler _simpleInputHandler;
 
     private void Awake()
     {
-        _simpleInputHandler = GetComponent<SimpleInputHandler2>();
+        _simpleInputHandler = GetComponent<SimpleInputHandler>();
     }
     private void Update()
     {
