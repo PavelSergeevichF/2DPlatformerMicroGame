@@ -1,0 +1,1344 @@
+fileFormatVersion: 2
+guid: 4b6b487c01c51aa4cb1ea4b128e7696e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4877850154492911336
+    second: Presentt_8_0
+  - first:
+      213: -7336753345157050410
+    second: Presentt_8_1
+  - first:
+      213: -179060856503298958
+    second: Presentt_8_2
+  - first:
+      213: -5443814132651510195
+    second: Presentt_8_3
+  - first:
+      213: 4485455090084068492
+    second: Presentt_8_4
+  - first:
+      213: 31491355862258433
+    second: Presentt_8_5
+  - first:
+      213: 3544226385082716738
+    second: Presentt_8_6
+  - first:
+      213: 6365091059012698052
+    second: Presentt_8_7
+  - first:
+      213: -7026291434828744910
+    second: Presentt_8_8
+  - first:
+      213: -6742500680050543750
+    second: Presentt_8_9
+  - first:
+      213: 9124353428987268014
+    second: Presentt_8_10
+  - first:
+      213: 1698074730562225323
+    second: Presentt_8_11
+  - first:
+      213: 7212147023042285269
+    second: Presentt_8_12
+  - first:
+      213: -7185730977588164038
+    second: Presentt_8_13
+  - first:
+      213: -5947853035893665210
+    second: Presentt_8_14
+  - first:
+      213: -6988081565433859253
+    second: Presentt_8_15
+  - first:
+      213: -4483516138508222907
+    second: Presentt_8_16
+  - first:
+      213: -1033110985564910413
+    second: Presentt_8_17
+  - first:
+      213: -3014142473439888485
+    second: Presentt_8_18
+  - first:
+      213: -8091454784762519423
+    second: Presentt_8_19
+  - first:
+      213: -8147002602070641884
+    second: Presentt_8_20
+  - first:
+      213: -5509770744538737553
+    second: Presentt_8_21
+  - first:
+      213: 3722603268576779136
+    second: Presentt_8_22
+  - first:
+      213: 6854945817785686886
+    second: Presentt_8_23
+  - first:
+      213: -1101602581752031167
+    second: Presentt_8_24
+  - first:
+      213: 3685181900328879145
+    second: Presentt_8_25
+  - first:
+      213: 155771348919959150
+    second: Presentt_8_26
+  - first:
+      213: 169274973624582467
+    second: Presentt_8_27
+  - first:
+      213: -635763969703430095
+    second: Presentt_8_28
+  - first:
+      213: 5072310045493442900
+    second: Presentt_8_29
+  - first:
+      213: -4309375549519082032
+    second: Presentt_8_30
+  - first:
+      213: 1188876769290751385
+    second: Presentt_8_31
+  - first:
+      213: 3792988420940091666
+    second: Presentt_8_32
+  - first:
+      213: -5974849155856193719
+    second: Presentt_8_33
+  - first:
+      213: -3062768431467969244
+    second: Presentt_8_34
+  - first:
+      213: 8834115286520880550
+    second: Presentt_8_35
+  - first:
+      213: -7037100799489685325
+    second: Presentt_8_36
+  - first:
+      213: -9205746822018269654
+    second: Presentt_8_37
+  - first:
+      213: 7053438459231916568
+    second: Presentt_8_38
+  - first:
+      213: -4815840547486496342
+    second: Presentt_8_39
+  - first:
+      213: 5075886174131223413
+    second: Presentt_8_40
+  - first:
+      213: -7033834450154161214
+    second: Presentt_8_41
+  - first:
+      213: 1186223241174488760
+    second: Presentt_8_42
+  - first:
+      213: -8585714543740978290
+    second: Presentt_8_43
+  - first:
+      213: 2676329271553199842
+    second: Presentt_8_44
+  - first:
+      213: 3602048316809394078
+    second: Presentt_8_45
+  - first:
+      213: -7614268979273012965
+    second: Presentt_8_46
+  - first:
+      213: 4818101905447062799
+    second: Presentt_8_47
+  - first:
+      213: -1619275771549759782
+    second: Presentt_8_48
+  - first:
+      213: 7615011134543938515
+    second: Presentt_8_49
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Windows Store Apps
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Presentt_8_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 811add1e0256e4cb0800000000000000
+      internalID: -4877850154492911336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_1
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6df414154bd9e2a90800000000000000
+      internalID: -7336753345157050410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_2
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 27491f68919d38df0800000000000000
+      internalID: -179060856503298958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_3
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d463e0093efa374b0800000000000000
+      internalID: -5443814132651510195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_4
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8cbd64b3a98f3e30800000000000000
+      internalID: 4485455090084068492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_5
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1035aa7a831ef6000800000000000000
+      internalID: 31491355862258433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_6
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2421c6e7e1f9f2130800000000000000
+      internalID: 3544226385082716738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_7
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4cf777f2898555850800000000000000
+      internalID: 6365091059012698052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_8
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 237b9aaba299d7e90800000000000000
+      internalID: -7026291434828744910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_9
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 333
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a73f1c3da53dd62a0800000000000000
+      internalID: -6742500680050543750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_10
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eab47ebc91730ae70800000000000000
+      internalID: 9124353428987268014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_11
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba48a3d78f5c09710800000000000000
+      internalID: 1698074730562225323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_12
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de83508181b61460800000000000000
+      internalID: 7212147023042285269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_13
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a3a465d5fb7274c90800000000000000
+      internalID: -7185730977588164038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_14
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642545b4d2bf47da0800000000000000
+      internalID: -5947853035893665210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_15
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b43fbd637d8550f90800000000000000
+      internalID: -6988081565433859253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_16
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54e7c73a3d957c1c0800000000000000
+      internalID: -4483516138508222907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_17
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc89d34807a9a1f0800000000000000
+      internalID: -1033110985564910413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_18
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9bb238d36d9b26d0800000000000000
+      internalID: -3014142473439888485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_19
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 254
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180681e5eb065bf80800000000000000
+      internalID: -8091454784762519423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_20
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423756f4c4800fe80800000000000000
+      internalID: -8147002602070641884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_21
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f64dde923bc5983b0800000000000000
+      internalID: -5509770744538737553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_22
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08b1a3713f759a330800000000000000
+      internalID: 3722603268576779136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_23
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66b5aa7f6e8a12f50800000000000000
+      internalID: 6854945817785686886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_24
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1485407d94256b0f0800000000000000
+      internalID: -1101602581752031167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_25
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9244dc5d965642330800000000000000
+      internalID: 3685181900328879145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_26
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ebe8e6739692200800000000000000
+      internalID: 155771348919959150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_27
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 341c14011b2695200800000000000000
+      internalID: 169274973624582467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_28
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138b5d8b9005d27f0800000000000000
+      internalID: -635763969703430095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_29
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 175
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4593844bc17746640800000000000000
+      internalID: 5072310045493442900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_30
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0dd492f05c50234c0800000000000000
+      internalID: -4309375549519082032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_31
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99d0a4b6f1dbf7010800000000000000
+      internalID: 1188876769290751385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_32
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 211dd4b6fd663a430800000000000000
+      internalID: 3792988420940091666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_33
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94726ae4952151da0800000000000000
+      internalID: -5974849155856193719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_34
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 425421db65cde75d0800000000000000
+      internalID: -3062768431467969244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_35
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6addce54c05199a70800000000000000
+      internalID: 8834115286520880550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_36
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8ccc56b12375e90800000000000000
+      internalID: -7037100799489685325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_37
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2e7b6d1a0e9e3080800000000000000
+      internalID: -9205746822018269654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_38
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 812d89f68e8d2e160800000000000000
+      internalID: 7053438459231916568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_39
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 96
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa905289982ba2db0800000000000000
+      internalID: -4815840547486496342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_40
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57b7869059b217640800000000000000
+      internalID: 5075886174131223413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_41
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cbf7ad95dcc26e90800000000000000
+      internalID: -7033834450154161214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_42
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b69482c0cf467010800000000000000
+      internalID: 1186223241174488760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_43
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8bf96d8c1a69d880800000000000000
+      internalID: -8585714543740978290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_44
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee88ecea4b342520800000000000000
+      internalID: 2676329271553199842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_45
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97b7331cdb0df130800000000000000
+      internalID: 3602048316809394078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_46
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b19e72a94bea45690800000000000000
+      internalID: -7614268979273012965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_47
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0d0ec5d7265dd240800000000000000
+      internalID: 4818101905447062799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_48
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad6416bd34d2789e0800000000000000
+      internalID: -1619275771549759782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Presentt_8_49
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 17
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d3c223e744fda960800000000000000
+      internalID: 7615011134543938515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

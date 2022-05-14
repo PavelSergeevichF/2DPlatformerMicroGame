@@ -1,9 +1,10 @@
-﻿using UnityEngine;
+﻿using TMPro;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class MessageTextUi : MonoBehaviour
 {
-    public Text textInfo;
+    public TextMeshProUGUI textInfo;
     private void Awake()
     {
     }
